@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    text-align: center;
+
+}
+#bedroom{
+    background-color:darkturquoise;
+    margin: 20px;
+
+}
+#tv{
+    background-color:darkturquoise;
+    margin: 20px;
+    
+}
+#desk{
+    background-color:darkturquoise;
+    margin: 20px;
+    
+}
+#bottles{
+    background-color:darkturquoise;
+    margin: 20px;
+    
+}
+#bed{
+    width:100px;
+    height:100px;
+    
+}
